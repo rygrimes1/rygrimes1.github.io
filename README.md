@@ -27,4 +27,6 @@ professionals, researchers, and organizations who share similar goals in the
 cybersecurity and tech communities.
 </p>
 
-<img src="headshot.jpg" height="300px" width="500px">
+<p align="center">
+<img src="headshot.jpg" height="300px" width="400px">
+</p>
