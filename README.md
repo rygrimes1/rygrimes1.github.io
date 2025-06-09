@@ -26,3 +26,5 @@ commitment to public service, I’m eager to garner experience and connect with
 professionals, researchers, and organizations who share similar goals in the
 cybersecurity and tech communities.
 </p>
+
+<img src="headshot.jpg" height="300px" width="500px">
