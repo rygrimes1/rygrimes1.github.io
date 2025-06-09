@@ -1,4 +1,3 @@
-Ryan Grimes 
 # rygrimes1.github.io
 https://www.linkedin.com/in/iamryang/
 
