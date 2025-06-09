@@ -1,6 +1,6 @@
-#Ryan Grimes 
+Ryan Grimes 
 # rygrimes1.github.io
-#https://www.linkedin.com/in/iamryang/
+https://www.linkedin.com/in/iamryang/
 
 
 <h2>About Me</h2>
