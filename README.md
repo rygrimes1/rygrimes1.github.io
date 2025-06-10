@@ -1,5 +1,5 @@
 # rygrimes1.github.io
-https://www.linkedin.com/in/iamryang/
+<a href="https://www.linkedin.com/in/iamryang/">Add Me on LinkedIn</a>
 
 
 <h2>About Me</h2>
