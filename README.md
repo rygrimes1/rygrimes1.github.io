@@ -17,7 +17,7 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
 </p>
 
 <p align="center">
-<img src="headshot.jpg" height="300px" width="400px">
+<img src="headshot.jpg" height="250px">
 </p>
 
 <h2>Education</h2>
