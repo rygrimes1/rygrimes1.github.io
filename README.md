@@ -11,22 +11,25 @@ digital forensics, and risk management. My
 academic journey has been shaped by hands-on
 coursework, national competitions, and research
 opportunities that have sharpened my technical
-abilities and critical thinking skills. I’ve presented my
-work at the Hampton University’s School of Science Symposium and participated in
-competitions with ADMI, Leidos, and CollegeBoard, and I’m always looking for ways to
-apply what I learn in meaningful, real-world contexts.
-In my free time I enjoy spending time with family and friends, fishing, and playing
-video games. My interest in computer science began with my interest in technology and
-videogames combined with my natural curiosity and analytical skills. I began learning
-Scratch and Java in my computer science class while also taking a forensic science
-class my senior year of highschool. That’s when I knew computer science and digital
-forensics was for me.
-With a strong foundation in programming, a growing research portfolio, and a
-commitment to public service, I’m eager to garner experience and connect with
-professionals, researchers, and organizations who share similar goals in the
-cybersecurity and tech communities.
+abilities and critical thinking skills. Proficient in JavaScript and skilled in Unix, Python and SQL, my academic background and passion for cybersecurity position me as a
+valuable candidate. Eager to apply my skills in a real-world setting, I bring a strong work ethic and effective problem-solving
+abilities. I look forward to contributing to a dynamic team and discussing how my enthusiasm aligns with my team’s goals.
 </p>
 
 <p align="center">
 <img src="headshot.jpg" height="300px" width="400px">
+</p>
+
+<h2>Education</h2>
+<p>
+  Bachelor of Science Degree (September 2022 – May 2026)  
+</p>
+<p>
+  Hampton University, Hampton, VA – Cyber Security (Computer Science Track)  
+<p>
+   Cumulative GPA: 3.44  
+</p>
+<p>
+  Relevant Coursework:  
+  Computer Programming I and II, Discrete Structures, Data Structures I and II, Computer Organization I and II, Psychology, and Terrorism & National Security Management  
 </p>
