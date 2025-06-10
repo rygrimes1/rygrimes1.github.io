@@ -25,7 +25,7 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
 </p>
 
 <p align="center">
-<img src="headshot.jpg" height="250px">
+<img src="headshot.jpg" height="300px">
 </p>
 
 <section id="education">
@@ -41,6 +41,10 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
 <p>
   Relevant Coursework:  
   Computer Programming I and II, Discrete Structures, Data Structures I and II, Computer Organization I and II, Psychology, and Terrorism & National Security Management  
+</p>
+
+<p align="center">
+<img src="srt.JPG" width="300px">
 </p>
 
 <section id="experience">
