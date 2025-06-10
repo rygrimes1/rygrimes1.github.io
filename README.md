@@ -97,6 +97,10 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
   <p>Selected for an intensive summer program focused on software development, research, and scientific gateways,
   working in teams under faculty and industry mentorship.</p>
 
+<p align="center">
+<img src="upe.jpg" height="300px">
+</p>
+
 <section id="certifications">
   <h2>Certifications</h2>
     
