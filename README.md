@@ -1,7 +1,15 @@
 # rygrimes1.github.io
+<section>
+  <h1>Ryan K. Grimes</h1>
+  <p>
+    <a href="#about">About Me</a>
+    | <a href="#education">Education</a>
+    | <a href="#experience">Experience</a>
+  </p>
+</section>
 <a href="https://www.linkedin.com/in/iamryang/">Add Me on LinkedIn</a>
 
-
+<section id="about">
 <h2>About Me</h2>
 <p>
   My name is Ryan Grimes, and I am a
@@ -20,6 +28,7 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
 <img src="headshot.jpg" height="250px">
 </p>
 
+<section id="education">
 <h2>Education</h2>
 <p>
   Bachelor of Science Degree (September 2022 – May 2026)  
@@ -33,3 +42,6 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
   Relevant Coursework:  
   Computer Programming I and II, Discrete Structures, Data Structures I and II, Computer Organization I and II, Psychology, and Terrorism & National Security Management  
 </p>
+
+<section id="experience">
+<h3>Experience</h3>
