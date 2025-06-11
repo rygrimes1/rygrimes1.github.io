@@ -37,7 +37,7 @@ abilities. I look forward to contributing to a dynamic team and discussing how m
 <p>
   Hampton University, Hampton, VA – Cyber Security (Computer Science Track)  
 <p>
-   Cumulative GPA: 3.44  
+   Cumulative GPA: 3.51  
 </p>
 <p>
   Relevant Coursework:  
